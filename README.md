@@ -30,12 +30,6 @@ npm install
 npm start
 ```
 
-4. Build for production:
-
-```bash
-npm run build
-```
-
 ## Tech Stack
 
 - React.js
