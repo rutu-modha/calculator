@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Web Calculator made using React.js",
   "main": "index.js",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts starts",
     "build": "react-scripts build"
