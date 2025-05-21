@@ -14,8 +14,8 @@ A simple calculator built using React with vanilla CSS for styling.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-calculator.git
-cd react-calculator
+git clone https://github.com/rutu-modha/calculator.git
+cd calculator
 ```
 
 2. Install dependencies:
