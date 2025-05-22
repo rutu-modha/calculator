@@ -9,6 +9,10 @@ A simple calculator built using React with vanilla CSS for styling.
 - Responsive UI with clean design
 - Lightweight bundling using Parcel
 
+## Live Demo
+
+https://calc-ug39.onrender.com
+
 ## Setup Instructions
 
 1. Clone the repository:
