@@ -1,5 +1,5 @@
 
-# React Calculator
+# Calculator
 
 A simple calculator built using React with vanilla CSS for styling.
 
